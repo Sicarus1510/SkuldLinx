@@ -6,9 +6,9 @@ services:
     image: 'linkstackorg/linkstack:latest'
     environment:
       TZ: 'Europe/Berlin'
-      SERVER_ADMIN: 'admin@example.com'
-      HTTP_SERVER_NAME: 'example.com'
-      HTTPS_SERVER_NAME: 'example.com'
+      SERVER_ADMIN: 'shawn@skuldlc.com'
+      HTTP_SERVER_NAME: 'www.skuldlinx.com'
+      HTTPS_SERVER_NAME: 'www.skuldlinx.com'
       LOG_LEVEL: 'info'
       PHP_MEMORY_LIMIT: '256M'
       UPLOAD_MAX_FILESIZE: '8M'
